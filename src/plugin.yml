@@ -6,5 +6,4 @@ commands:
     dmenu:
           description: Displays a GUI that contains the features for donators
           usage: /<command>
-          permission: <plugin name>.dmenu
-          permission-message: You don't have <permission>
+          aliases: [dm]
