@@ -2,3 +2,8 @@ name: GalexRealmsDonators
 version: 0.0.1
 author: Swoggle
 main: me.swoggle.galexrealmsdonators.Main
+commands:
+    dmenu:
+        description: A command to display a GUI for donators to access all of their features.
+              permission: GalexRealmsDonators.dmenu
+              usage: /<command>
